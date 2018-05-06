@@ -1,4 +1,3 @@
 # hello-world
-hello my son
-hello my dear and love .
-you are a boy.
+1. hello my dear and love, you are my son
+2. a boy.
